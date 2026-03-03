@@ -3,3 +3,4 @@
 # lembrando que o arquivos views.py original foi deletado
 
 from contact.views.contact_views import *
+from contact.views.contact_forms import *
